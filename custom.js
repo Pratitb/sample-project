@@ -1,1 +1,1 @@
-console.log('Whad up');
+console.log('Whad up!');
