@@ -1,2 +1,2 @@
-#my project
+#myproject
 this is a sample project
